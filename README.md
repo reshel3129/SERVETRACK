@@ -16,6 +16,16 @@ A modern food detection and tracking system using YOLO-World and MobileNet for r
 - **WebSocket Support**: Real-time count updates
 - **User Management**: Role-based access control with authentication
 
+## 🖼️ UI Screenshots
+
+| Login | Analytics |
+| --- | --- |
+| ![Login](./Login.png) | ![Analytics](./analytics-1.png) |
+
+| Dashboard | Schedule | Add Item |
+| --- | --- | --- |
+| ![Dashboard](./Dashboard.png) | ![Schedule](./schedule.png) | ![Add Item](./add-item.png) |
+
 ## 📋 Prerequisites
 
 - Python 3.8 or higher
